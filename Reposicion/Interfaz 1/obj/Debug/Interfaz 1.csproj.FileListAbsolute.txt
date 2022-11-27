@@ -1,0 +1,22 @@
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form1.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Properties.Resources.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\bin\Debug\Interfaz 1.exe
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\bin\Debug\Interfaz 1.pdb
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form2.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.exe
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz 1.pdb
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form10.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form11.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form12.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form13.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form3.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form4.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form5.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form6.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form7.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form8.resources
+C:\Users\HP\Desktop\Reposicion\Interfaz 1\obj\Debug\Interfaz_1.Form9.resources
